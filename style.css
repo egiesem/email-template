@@ -1,0 +1,13 @@
+body {
+    width: 100%;
+    height: 100%
+}
+
+header, main, footer {
+    padding: 100px;
+    width: 50%;
+    height: calc(100vh / 3);
+    text-align: center;
+    color: red;
+    margin: 0 auto;
+}
